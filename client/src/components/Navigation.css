@@ -1,0 +1,12 @@
+.btn-logout {
+  background: none;
+  border: none;
+  color: #333;
+  cursor: pointer;
+  font-weight: 500;
+  transition: color 0.3s;
+}
+
+.btn-logout:hover {
+  color: var(--primary-color);
+}
